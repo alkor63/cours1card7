@@ -8,7 +8,7 @@ public class Main {
     } // вычислдили квадрат аргумента
 
     public static void main(String[] args) {
-        double num = 1.;
+        double num = 1.0;
         Scanner in = new Scanner(System.in);
         System.out.println("При вводе double в качестве разделителя используйте запятую");
         while (num != 0) {
